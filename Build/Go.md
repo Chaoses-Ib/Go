@@ -5,6 +5,17 @@
 - `scoop install go`
   - [Data](#data) is not persisted.
 
+%%t220507%%
+[Installing Go from source](https://go.dev/doc/install/source)
+```cmd
+set PATH=%PATH%;C:\L\Programs\mingw64\bin
+
+set GOROOT_BOOTSTRAP=C:\Program Files\Go
+.\all.bat
+```
+- ASCII 路径
+- 需要 gcc
+
 ## Data
 Windows:
 - `GOPATH`: `%USERPROFILE%\go`
