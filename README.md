@@ -14,8 +14,8 @@
 - [Dynamic Libraries](Build/Dynamic%20Libraries.md)
 - [Binary Size](Build/Binary%20Size.md)
 
-## [逆向](逆向/逆向.md)
-- [Signatures](逆向/Signatures.md)
+## [Program Analysis](Analysis/README.md)
+- [Signatures](Analysis/Signatures.md)
 
 ## Library
 - [bytes](Library/bytes.md)
