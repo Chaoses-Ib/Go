@@ -1,11 +1,9 @@
 # Dynamic Libraries
-%%t220506%%
 Go 默认会使用部分动态库。[^moonlightwatch]
 
 ## Shared
 shared [^shared][^shared-individual] 只支持 x64-linux。
 
-%%t13%%
 ```cmd
 set GOOS=linux
 set PATH=%PATH%;C:\L\Programs\mingw64\bin

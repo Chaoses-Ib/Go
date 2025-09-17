@@ -1,10 +1,10 @@
 # A Tour of Go
-%%t220129%%
 [A Tour of Go](https://go.dev/tour/list)
+
 三小时速通完成，我感觉我行了
 
 [go.mod file not found in current directory or any parent directory - Stack Overflow](https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current-directory-or-any-parent-directory-see-go)
-`go mod init helloworld`
+- `go mod init helloworld`
 
 ## Package
 - 为什么 import 要带引号？
@@ -24,8 +24,8 @@
 		z complex128 = cmplx.Sqrt(-5 + 12i)
 	)
 	```
-- Constant: `const {name}`
-	Numeric constants are high-precision *values*.
+- Constant: `const {name}`  
+  Numeric constants are high-precision *values*.
 
 ## Types
 - Basic types:
@@ -46,7 +46,7 @@
 	
 	complex64 complex128
 	```
-- Type conversion: `T(v)`
+- Type conversion: `T(v)`  
 	没有隐式转换
 - `v.(type)`
 	```go
@@ -132,6 +132,7 @@
 	}
 	```
 - Function closure
+  
 	A closure is a function value that references variables from outside its body.
 	```go
 	func adder() func(int) int {
@@ -336,6 +337,7 @@ type Stringer interface {
 	```
 	可以 fallthrough
 - defer
+  
 	A defer statement defers the execution of a function until the surrounding function returns.
 	```go
 	func main() {

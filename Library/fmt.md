@@ -1,5 +1,4 @@
 # fmt
-%%t220130%%
 [fmt package - fmt - pkg.go.dev](https://pkg.go.dev/fmt)
 
 ## Scanning

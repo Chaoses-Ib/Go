@@ -1,5 +1,4 @@
 # net
-%%t220415~16%%
 [net package](https://pkg.go.dev/net)
 
 ## Example

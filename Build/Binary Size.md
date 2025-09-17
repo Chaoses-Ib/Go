@@ -1,5 +1,4 @@
 # Binary Size
-%%t220505~07%%
 [^xaionaro]
 ## -ldflags "-s -w"
 `go build -ldflags "-s -w"`
@@ -7,6 +6,7 @@
 - -w: disable DWARF generation
 
 [Guide to compress GoLang binaries](https://github.com/akshaybharambe14/golang-examples/tree/master/binaryCompression)
+
 [Size comparison of Go executables | by Petr Jahoda | ITNEXT](https://itnext.io/size-comparison-of-go-executables-9b4ae2aaebb5)
 
 
@@ -32,13 +32,9 @@ stat -c %s helloworld
 - ~~Disable write-barrier: `-gcflags=all=-wb=false`~~
 
 
-## Dead code elimination
-[[Dead Code Elimination]]
+## [→Dead code elimination](Dead%20Code%20Elimination/README.md)
 
-
-## Dynamic libraries
-[[Dynamic Libraries]]
-
+## [→Dynamic libraries](Dynamic%20Libraries.md)
 
 ## Others
 - 32-bit instead of 64-bit

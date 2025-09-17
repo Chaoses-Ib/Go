@@ -1,8 +1,7 @@
 # Signatures
-%%t220506~07%%
 ## Making signatures
 ### Executable
-[[Dead Code Elimination]]
+[Dead Code Elimination](../Build/Dead%20Code%20Elimination/README.md)
 
 
 ### Dynamic libraries

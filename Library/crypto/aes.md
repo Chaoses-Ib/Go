@@ -1,5 +1,4 @@
 # aes
-%%t220415~16%%
 [aes package](https://pkg.go.dev/crypto/aes)
 
 ```go

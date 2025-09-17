@@ -1,5 +1,4 @@
 # bits
-%%t220415%%
 [bits package](https://pkg.go.dev/math/bits@go1.18.1)
 
 ## Rotate

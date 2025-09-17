@@ -5,7 +5,7 @@
 - `scoop install go`
   - [Data](#data) is not persisted.
 
-%%t220507%%
+## Build
 [Installing Go from source](https://go.dev/doc/install/source)
 ```cmd
 set PATH=%PATH%;C:\L\Programs\mingw64\bin

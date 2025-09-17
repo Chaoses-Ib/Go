@@ -1,5 +1,4 @@
 # Dead Code Elimination
-%%t220507%%
 Elimination of unused public methods at link time will be inhibited if reflection function calling are used anywhere. [^u-root]
 
 [ssa/deadcode.go](https://github.com/golang/go/blob/master/src/cmd/compile/internal/ssa/deadcode.go)
