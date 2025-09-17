@@ -3,6 +3,7 @@
 
 ## Language
 - [A Tour of Go](<Language/A Tour of Go.md>)
+- [Packages](Language/Packages.md)
 - [Modules](Language/Modules/README.md)
 
 ## [Build](Build/README.md)

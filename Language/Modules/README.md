@@ -1,5 +1,17 @@
 # Modules
+> A module is a collection of go packages.
+
+[Using Go Modules - The Go Programming Language](https://go.dev/blog/using-go-modules)
+
 > Go Modules (previously called vgo -- versioned Go) were introduced with Go 1.11. Instead of using the GOPATH for storing a single git checkout of every package, Go Modules stores tagged versions with `go.mod` keeping track of each package's version.
+
+- `go mod init github.com/Go/greetings`
+
+  [Tutorial: Create a Go module - The Go Programming Language](https://go.dev/doc/tutorial/create-module)
+
+[Call your code from another module - The Go Programming Language](https://go.dev/doc/tutorial/call-module-code)
+
+[Go Modules vs Package - Stack Overflow](https://stackoverflow.com/questions/61940117/go-modules-vs-package)
 
 ## `GO111MODULE`
 [Why is `GO111MODULE` everywhere, and everything about Go Modules (updated with Go 1.20) | maelvls dev blog](https://maelvls.dev/go111module-everywhere/)

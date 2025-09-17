@@ -1,4 +1,6 @@
 # Go
+[Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
+
 - [The Go Programming Language](https://go.dev/)
 - [The Go Programming Language Specification - The Go Programming Language](https://go.dev/ref/spec)
 - [ ] [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
@@ -13,6 +15,9 @@ Go 的实现是底层的，但又限制了程序员操作底层的能力，既�
 
 ### VSC
 装完扩展后还要装几个包。
+
+## Logo
+[Directory blog/go-brand/Go-Logo - The Go Programming Language](https://go.dev/blog/go-brand/Go-Logo/)
 
 ## Discussions
 [各位大佬在 go 中都是怎么使用事务？有没有更好的方式 - V2EX](https://www.v2ex.com/t/836337#r_11405579)
