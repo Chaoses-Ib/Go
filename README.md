@@ -5,6 +5,7 @@
 - [A Tour of Go](<Language/A Tour of Go.md>)
 - [Packages](Language/Packages.md)
 - [Modules](Language/Modules/README.md)
+- [FFI](Language/FFI.md)
 
 ## [Build](Build/README.md)
 - [Go](Build/Go.md)
@@ -14,6 +15,7 @@
 - [Cross-compiling](Build/Cross-compiling.md)
 - [Dynamic Libraries](Build/Dynamic%20Libraries.md)
 - [Binary Size](Build/Binary%20Size.md)
+- [Debug](Build/Debug/README.md)
 
 ## [Program Analysis](Analysis/README.md)
 - [Signatures](Analysis/Signatures.md)
